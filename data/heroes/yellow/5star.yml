@@ -1529,5 +1529,5 @@
     - Hit 1
     - Health Boost
   passives:
-    - "Disable Minion Abilities - Attracts and abilities of all Minions owned by enemies are disabled."
+    - "Disable Minion Abilities - Attacks and abilities of all Minions owned by enemies are disabled."
   image: https://i.imgur.com/3mERqj0.jpg
